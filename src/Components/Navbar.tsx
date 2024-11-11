@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="text-white font-serif body-font bg-black">
+    <header className="text-white font-serif body-font bg-black sticky top-0">
       <div className="container mx-auto flex p-5 items-center justify-between">
         <a className="flex title-font font-medium items-center text-gray-900">
           <span className="ml-3 text-3xl text-white">Hasnain Ali</span>
